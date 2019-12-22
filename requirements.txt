@@ -1,0 +1,6 @@
+requests
+bs4
+re
+datetime
+sqlite3
+vk_api
