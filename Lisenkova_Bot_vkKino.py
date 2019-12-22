@@ -253,7 +253,7 @@ except:
 
 print(cursor.execute('select date from cinemas').fetchall())
 cursor.execute('Select * from cinemas').fetchall
-token = "586e1ebfcf53c5d2ca46d72d3c5cb219e87d9c43047f16ebfcba718f77747c1414bcc10f9f79a395ba0f0"
+token = ""
 vk = vk_api.VkApi(token=token)
 longpoll = VkLongPoll(vk)
 
