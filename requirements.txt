@@ -1,5 +1,4 @@
 requests
 bs4
 datetime
-sqlite3
 vk_api
